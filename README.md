@@ -1,8 +1,4 @@
 Actividad 1:
-https://github.com/JarryPoket/POO-2024-2/raw/main/Resultado%20Tarea2.1-POO-2024-2.png
-https://github.com/JarryPoket/POO-2024-2/raw/main/Resultado%20Tarea2.2-POO-2024-2.png
-https://github.com/JarryPoket/POO-2024-2/raw/main/Resultado%20Tarea2.3-POO-2024-2.png
-https://github.com/JarryPoket/POO-2024-2/raw/main/Resultado%20Tarea2.4-POO-2024-2.png
 
 ![Resultado Tarea2 1-POO-2024-2](https://github.com/user-attachments/assets/6e8d4a95-1a09-4226-b881-5f8b1de98aa6)
 ![Resultado Tarea2 2-POO-2024-2](https://github.com/user-attachments/assets/1f9686c7-7887-47fa-9492-07fa7b250e84)
